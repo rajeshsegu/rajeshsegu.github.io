@@ -104,9 +104,6 @@ Responsive
     #twitter_feed {
         display: none;
     }
-    .navbar-name {
-        font-size:20px;
-    }
     .timeline{
         background: url("../img/line.gif") repeat-y scroll 226px 0 rgba(0, 0, 0, 0);
         margin-left: 0px;
