@@ -64,3 +64,26 @@
 .topic-list a {
     background-color: transparent;
 }
+
+/*More Styles*/
+
+.social_presence a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a.icon-twitter:hover {
+    color: #00ACED;
+}
+
+a.icon-github-circled:hover {
+    color: #555;
+}
+
+a.icon-linkedin:hover {
+    color: #3399CC;
+}
+
+a.icon-wordpress:hover {
+    color: #F1831E;
+}
