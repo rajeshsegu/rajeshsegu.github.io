@@ -221,6 +221,9 @@ a.mt-button {
 .social li a.wordpress { background-color: #0083b3; }
 .social li a.instagram { background-color:#3f729b; }
 
+.tweet a {
+    color: #999;
+}
 
 /* HEADER
 --------------------------------------------------------------------- */
@@ -319,6 +322,13 @@ a.mt-button {
 #navs li a.active {
     color: #FFFFFF;
     font-size: 18px;
+}
+
+.navbar-name {
+    font-family: Pacifico;
+    font-size: 40px;
+    margin-left: 20px;
+    color: #373432;
 }
 
 /* For Index 2 */

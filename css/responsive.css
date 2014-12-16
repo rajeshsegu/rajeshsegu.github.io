@@ -94,11 +94,18 @@ Responsive
 }
 
 @media(max-width: 480px) {
+    .avater{
+        height: 200px;
+        width: 200px;
+    }
     .topic-topper {
         display:none;
     }
     #twitter_feed {
         display: none;
+    }
+    .navbar-name {
+        font-size:20px;
     }
     .timeline{
         background: url("../img/line.gif") repeat-y scroll 226px 0 rgba(0, 0, 0, 0);
