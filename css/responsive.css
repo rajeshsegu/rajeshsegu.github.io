@@ -156,7 +156,9 @@ Responsive
     .avater{
         margin: -30px auto;
     }
-
+    .service-item {
+        padding: 10px;
+    }
     .timeline-head{
         margin: 0 auto 15px 204px;
     }
