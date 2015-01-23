@@ -5,6 +5,6 @@ Personal Profile
 
 Access it @ 
 
-[www.rajeshsegu.info](www.rajeshsegu.info)
+[http://www.rajeshsegu.info](http://www.rajeshsegu.info)
 
-[rajeshsegu.github.io](rajeshsegu.github.io)
+[http://www.rajeshsegu.github.io](http://www.rajeshsegu.github.io)
