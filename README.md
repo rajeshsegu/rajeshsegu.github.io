@@ -7,4 +7,4 @@ Access it @
 
 [http://www.rajeshsegu.info](http://www.rajeshsegu.info)
 
-[http://www.rajeshsegu.github.io](http://www.rajeshsegu.github.io)
+[http://rajeshsegu.github.io](http://rajeshsegu.github.io)
